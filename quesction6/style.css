@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.maibox{
+    height: 100vh;
+    width: 100vw;
+}
+.headding{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: 200;
+}
+.paragraph{
+    font-size: 1rem;
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto 20px ;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.img img{
+    width: 50vw;
+    height: 50vh;
+    border-radius: 15px;
+}

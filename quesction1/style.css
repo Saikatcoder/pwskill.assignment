@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(73, 155, 238);
+    height: 50px;
+    display: flex;
+    gap: 30px;
+}
+.navbar a{
+    color: aliceblue;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.navbar a:hover{
+    color: black;
+}
